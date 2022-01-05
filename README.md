@@ -1,2 +1,2 @@
 # PaintJS
-git init
+Creating Painting Board with Vanilla JS.
